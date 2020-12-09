@@ -543,5 +543,7 @@ int main(){
     probar_lista_con_cada_elemento();
 
     pa2m_mostrar_reporte();
+
+    printf("aaaaaa\n");
     return 0;
 }
